@@ -4,7 +4,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-title: Weebby life
+title: Weebby Life
 author: Soumyadip Sarkar
 
 
@@ -37,7 +37,7 @@ feed_show_tags: false
 keywords: "r shiny,r shiny developer,shiny developer,shiny apps,shiny consultant,dashboards r,interactive dashboards"
 
 navbar-col: "#944BFA"
-link-col: "#404040"
+#link-col: "#404040"
 footer-col: "#C5FCF2"
 
 mobile-theme-col: "#0085A1"
